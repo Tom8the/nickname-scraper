@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# PyInstaller build output and local release artifacts
+build/
+dist_output/
+debug_build_*/
+debug_dist_*/
+debug_spec_*/
+release-assets/
+*.spec
+
+# Local diagnostic files
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
