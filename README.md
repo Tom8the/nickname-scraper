@@ -20,7 +20,7 @@
 
 ## 软件截图
 
-![抖音、小红书昵称抓取器主界面](assets/screenshots/main-window.png)
+![抖音、小红书昵称抓取器主界面](https://raw.githubusercontent.com/Tom8the/nickname-scraper/7a5515e6d71de4bc18b9b428db75563bcae166c0/assets/screenshots/main-window.png)
 
 ## 项目结构
 
