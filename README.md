@@ -18,6 +18,10 @@
 - 支持将结果导出为 `.xlsx` 文件。
 - 提供 PyInstaller 打包脚本，可生成独立的 Windows 应用目录。
 
+## 软件截图
+
+![抖音、小红书昵称抓取器主界面](assets/screenshots/main-window.png)
+
 ## 项目结构
 
 ```text
